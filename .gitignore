@@ -1,0 +1,31 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entorno XAMPP
+*.log
+*.tmp
+
+# Configuración local
+.env
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+desktop.ini
+
+# Archivos sensibles
+includes/db.php
+
+# Archivos de caché
+*.cache
+*.bak
+*.swp
+
+# Node modules (por si usas npm)
+node_modules/
+
+# Archivos de base de datos locales
+*.sql
+*.sqlite
+*.db
