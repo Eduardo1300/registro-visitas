@@ -47,6 +47,7 @@ CREATE TABLE visitas (
   motivo VARCHAR(255) NOT NULL,
   fecha TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```
 4. Configura el archivo includes/db.php con tus datos de conexión. Si tu puerto de MySQL es 3307, usa:
 $mysqli = new mysqli("localhost", "root", "", "registro_visitas", 3307);
 
@@ -67,4 +68,10 @@ registro-visitas/
 ├── .gitignore
 ├── README.md
 
-Autor
+👨‍💻 Autor
+
+Christopher Eduardo Valdivia Baca
+📍 Estudiante de Computación e Informática — Cibertec Callao
+🔗 LinkedIn
+📧 eduardovaldivia130@outlook.es
+📱 +51 953 587 619
