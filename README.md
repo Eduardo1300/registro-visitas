@@ -18,6 +18,16 @@ Este es un sistema básico de registro de visitas desarrollado en PHP con Bootst
 - Navegador moderno
 - MySQL Workbench (opcional, para gestionar la base de datos)
 
+## Vista del proyecto
+
+![Registro](assets/registro.png)
+![Agregar Visita](assets/agregar_visita.png)
+![Editar Visita](assets/editar_visita.png)
+![Eliminar Visita](assets/eliminar_visita.png)
+![Buscar Visita](assets/busqueda_visita.png)
+
+
+
 ## Instalación
 
 1. Clona este repositorio o copia los archivos a la carpeta `htdocs` de XAMPP:
