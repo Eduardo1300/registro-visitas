@@ -25,7 +25,7 @@ Este es un sistema básico de registro de visitas desarrollado en PHP con Bootst
 ![Editar Visita](assets/editar_visita.png)
 ![Eliminar Visita](assets/eliminar_visita.png)
 ![Buscar Visita](assets/busqueda_visita.png)
-
+![Base de Datos](assets/base_datos_php.png)
 
 
 ## Instalación
@@ -33,7 +33,7 @@ Este es un sistema básico de registro de visitas desarrollado en PHP con Bootst
 1. Clona este repositorio o copia los archivos a la carpeta `htdocs` de XAMPP:
 C:\xampp\htdocs\registro-visitas
 
-2. Asegúrate de que el servidor MySQL esté activo. Usa `phpMyAdmin` o MySQL Workbench para crear la base de datos.
+2. Asegúrate de que el servidor MySQL esté activo. Usa `phpMyAdmin` para crear la base de datos.
 
 3. Ejecuta el siguiente script SQL para crear la base de datos y la tabla:
 
